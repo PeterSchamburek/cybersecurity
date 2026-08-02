@@ -17,6 +17,12 @@ just define them.
   10 risks scored with a documented likelihood × impact methodology, existing
   controls, residual risk, and tiered low-effort/high-effort treatment plans with
   target risk scoring.
+- **[HIPAA → NIST CSF 2.0 Crosswalk](./hipaa-nist-crosswalk.md)** — maps all 18
+  HIPAA Security Rule standards to their corresponding NIST Cybersecurity
+  Framework 2.0 category, modeled on the mapping approach used in NIST SP 800-66
+  Rev 2. Presented as a single scannable table with one primary category per
+  standard, plus notes on where the reasoning shifted during development.
+
 ## Why this repo exists
  
 Built while studying for a GRC-track cybersecurity internship and coursework —
