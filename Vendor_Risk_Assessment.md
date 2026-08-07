@@ -134,5 +134,5 @@ the four remediation items above, not automatic.
 
 - [Risk Register](./risk-register.md) — Risk 8 (Cloud Storage Misconfiguration)
   covers SFM's side of this same vendor relationship.
-- [HIPAA → NIST CSF 2.0 Crosswalk](./hipaa-nist-crosswalk.md) — the Facility Access
+- [HIPAA → NIST CSF 2.0 Crosswalk](./HIPAA-NIST-CSF-2.0-Crosswalk.md) — the Facility Access
   Controls finding above maps directly to standard #6 in that crosswalk (PR.AA).
