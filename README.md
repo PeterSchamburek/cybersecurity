@@ -22,7 +22,7 @@ just define them.
   Framework 2.0 category, modeled on the mapping approach used in NIST SP 800-66
   Rev 2. Presented as a single scannable table with one primary category per
   standard, plus notes on where the reasoning shifted during development.
-- **[Vendor Risk Assessment — HippocratiCloud](./hippocraticloud-vendor-risk-assessment.md)** —
+- **[Vendor Risk Assessment — HippocratiCloud](./Vendor_Risk_Assessment.md)** —
   third-party risk assessment of Smith Family Medicine's cloud EHR vendor, scored
   using HITRUST's PRISMA maturity model. Covers data security, access control,
   compliance certifications, incident history, business continuity, and
